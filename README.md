@@ -4,6 +4,5 @@ Conducted a comprehensive analysis of Canada's healthcare dataset (2018-2022), u
 
 Please find a few screenshots of the analysis below.
 
-![](a1.PNG)
 ![](a2.PNG)
 ![](a3.PNG)
